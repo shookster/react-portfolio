@@ -1,60 +1,57 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Ethan Shook",
+    "role": "Full Stack Developer",
+    "linkedinId":"ethanshook",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " based in Minneapolis, Minnesota. ",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ethanshook/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/shookster",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/ethanshook",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a motivated Web Developer who uses customer service, training, and management skills to provide an excellent experience for customers and coworkers. Expert in diagnosing problems and finding innovative solutions. Recently earned a Certificate in Full Stack Web Development form the University of Minnesota.",
+    "address":"Minneapolis, MN",
+    "website":"https://www.shooktown.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"University of Minnesota Bootcamp",
+        "specialization":"Full Stack Development",
+        "MonthOfPassing":"December",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Certificate"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Trinity International University",
+        "specialization":"English/Communication",
+        "MonthOfPassing":"August",
+        "YearOfPassing":"2012",
+        "Achievements":"Bachelor of Arts"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Caribou Coffee Company",
+        "specialization":"General Mangaer",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2016 - Present",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Trinity International University",
+        "specialization":"Visit Coordinator",
+        "MonthOfLeaving":"October, 2014 - April, 2015",
       }
     ],
     "skillsDescription":"Your skills here",
