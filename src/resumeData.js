@@ -69,25 +69,20 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Elderberry Travel",
+      description: "travel app",
+      imgurl: "images/portfolio/e-t.png",
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg",
+      name: "Dad Jokes!",
+      description: "dad joke generator and rating app",
+      imgurl: "images/portfolio/dad.webm",
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png",
-    },
-    {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
-    },
+      name: "Twin Cities Foodshare",
+      description: "foodshare app",
+      imgurl: "images/portfolio/screenshot-searchpage.png",
+    }
   ],
   testimonials: [
     {
