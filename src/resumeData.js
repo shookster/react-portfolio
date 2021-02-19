@@ -37,8 +37,6 @@ let resumeData = {
     {
       UniversityName: "Trinity International University",
       specialization: "English/Communication",
-      MonthOfPassing: "August",
-      YearOfPassing: "2012",
       Achievements: "Bachelor of Arts",
     },
   ],
@@ -82,16 +80,6 @@ let resumeData = {
       name: "Twin Cities Foodshare",
       description: "foodshare app",
       imgurl: "images/portfolio/screenshot-searchpage.png",
-    }
-  ],
-  testimonials: [
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
-    },
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
     },
   ],
 };
